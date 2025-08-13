@@ -1,0 +1,1 @@
+The goal of this project is to classify book reviews as positive or negative based on their textual content. This project demonstrates a complete NLP (Natural Language Processing) workflow including data cleaning, feature engineering, model training, and evaluation.
